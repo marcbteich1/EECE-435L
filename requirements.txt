@@ -1,0 +1,3 @@
+PyQt5>=5.15,<6
+Sphinx>=7,<9
+sphinx-rtd-theme>=2,<4
