@@ -1,7 +1,7 @@
 # Assignment instructions must stay local.
 /Lab 4-Git.docx
 
-# Original private records, screenshots, and verification tooling.
+# Local backups and tools.
 /.lab4-local/
 /.venv/
 __pycache__/

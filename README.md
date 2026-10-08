@@ -73,12 +73,4 @@ Open `Lab3_Marc_Bteich/docs/_build/html/index.html` in a browser. To rebuild fro
 .\.venv\Scripts\python.exe -m sphinx -b html Lab3_Marc_Bteich/docs Lab3_Marc_Bteich/docs/_build/html
 ```
 
-## Solo Lab 4 submission
-
-Verification performed with Python 3.12.10 and PyQt5 5.15.11: both interfaces were instantiated and their existing handlers exercised for adding records, validation, registration, instructor assignment, search, editing, deletion, and JSON exchange in both directions. PyQt5 CSV export and SQLite CRUD, search, backup/restore, and database widgets also passed. File dialogs and message boxes were controlled during these checks; this was an automated widget test, not a manual walkthrough of every desktop interaction.
-
-The project uses `main` with meaningful commits. One student maintains both interfaces, so collaborators, feature branches, pull requests, merges, and contribution tracking are unnecessary. Tags and GitHub releases are optional.
-
 Repository: https://github.com/marcbteich1/EECE-435L
-
-Submit this repository link and the README on Moodle as required by the lab. The Lab 4 instruction document and local private originals are excluded from Git.
