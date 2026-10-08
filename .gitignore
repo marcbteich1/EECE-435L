@@ -1,0 +1,25 @@
+# Assignment instructions must stay local.
+/Lab 4-Git.docx
+
+# Original private records, screenshots, and verification tooling.
+/.lab4-local/
+/.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+
+# Generated Sphinx caches (HTML documentation is retained).
+**/docs/_build/doctrees/
+**/docs/_build/html/.doctrees/
+**/docs/_build/html/.buildinfo.bak
+
+# Local database journals and editor metadata.
+*.db-journal
+*.db-wal
+*.db-shm
+.vscode/
+.DS_Store
+Thumbs.db

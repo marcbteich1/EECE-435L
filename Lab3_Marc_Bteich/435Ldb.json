@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "name": "Sample Student",
+            "age": 21,
+            "email": "student1@example.com",
+            "student_id": "S001",
+            "registered_courses": [
+                "EECE435L"
+            ]
+        }
+    ],
+    "instructors": [
+        {
+            "name": "Sample Instructor",
+            "age": 45,
+            "email": "instructor@example.com",
+            "instructor_id": "I001",
+            "assigned_courses": [
+                "EECE435L"
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "course_id": "EECE435L",
+            "course_name": "Software Tools Lab",
+            "instructor_id": "I001",
+            "enrolled_students": [
+                "S001"
+            ]
+        }
+    ]
+}
